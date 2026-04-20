@@ -20,6 +20,12 @@ props_dict = {
     "CreationDate": "2026-04-19",
     "LicenseExpiryDate": "2099-01-01",
     "MaintenanceExpiryDate": "2099-01-01",
+    "NumberOfClusterNodes": "-1",
+    "SEN": "13371337",
+    "NumberOfBambooPlans": "-1",
+    "NumberOfBambooRemoteAgents": "-1",
+    "NumberOfBambooLocalAgents": "-1",
+    "DataCenter": "meow",
     "Evaluation": "false",
 }
 
